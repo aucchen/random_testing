@@ -1,4 +1,4 @@
-= Random Testing for Narrative Games
+# Random Testing for Narrative Games
 
 `dendry_random_player.py`: selenium-based random player for dendry
 
